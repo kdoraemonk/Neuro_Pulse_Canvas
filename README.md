@@ -1,4 +1,4 @@
-# 神经事件可视化仪表盘 (Neuro-Event Dashboard)
+# Neuro_Pulse_Canvas: 神经事件可视化仪表盘
 
 ![仪表盘操作演示](./脑波数据可视化操作和界面演示.gif)
 
