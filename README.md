@@ -158,7 +158,7 @@ python precompute_lfp_frames.py
 python precompute_spike_frames.py
 ```
 
-成功运行后，项目根目录下会生成 `lfp_frames_gamma.npz` 和 `spike_frames.npz` 数据文件。这些文件已被 `.gitignore` 排除，不会上传到版本库。
+成功运行后，项目根目录下会生成 `lfp_frames_gamma.npz` 和 `spike_frames.npz` 数据文件。
 
 ### 3.3. 运行仪表盘
 
